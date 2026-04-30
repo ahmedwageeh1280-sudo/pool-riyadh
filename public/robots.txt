@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /storage/
+Disallow: /vendor/
+
+Sitemap: https://pool-riyadh.com/sitemap.xml
