@@ -57,7 +57,7 @@
     "alternateName": ["تنظيف مسابح الرياض", "صيانة مسابح بالرياض"],
     "description": "شركة متخصصة في تنظيف وصيانة وتعقيم المسابح السكنية والتجارية بالرياض منذ عام 2010.",
     "url": "{{ url('/') }}",
-    "telephone": "+966560387771",
+    "telephone": "+966500304850",
     "foundingDate": "2010",
     "address": {
       "@@type": "PostalAddress",
@@ -114,7 +114,7 @@
         "datePublished": "2024-11-20"
       }
     ],
-    "sameAs": ["https://wa.me/966560387771"],
+    "sameAs": ["https://wa.me/966500304850"],
     "hasOfferCatalog": {
       "@@type": "OfferCatalog",
       "name": "خدمات تنظيف وصيانة المسابح بالرياض",
@@ -159,12 +159,12 @@
       "@@type": "LocalBusiness",
       "@@id": "{{ url('/') }}#business",
       "name": "شركة تنظيف مسابح بالرياض",
-      "telephone": "+966560387771"
+      "telephone": "+966500304850"
     },
     "areaServed": { "@@type": "City", "name": "الرياض" },
     "availableChannel": {
       "@@type": "ServiceChannel",
-      "servicePhone": { "@@type": "ContactPoint", "telephone": "+966560387771", "contactType": "customer service" }
+      "servicePhone": { "@@type": "ContactPoint", "telephone": "+966500304850", "contactType": "customer service" }
     },
     "offers": {
       "@@type": "Offer",
@@ -246,7 +246,7 @@
 
 @include('components.footer')
 
-<a href="https://wa.me/966560387771"
+<a href="https://wa.me/966500304850"
    class="whatsapp-float"
    target="_blank"
    rel="noopener noreferrer"

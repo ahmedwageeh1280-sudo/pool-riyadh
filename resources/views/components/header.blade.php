@@ -7,9 +7,9 @@
         <span>الرياض</span>
       </div>
     </a>
-    <a href="tel:+966560387771" class="cta-phone">
+    <a href="tel:+966500304850" class="cta-phone">
       <div class="pulse"></div>
-      0560387771
+      0500304850
     </a>
   </nav>
 </header>

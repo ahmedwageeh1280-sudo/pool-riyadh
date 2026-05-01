@@ -16,7 +16,7 @@
       نصلك في جميع أحياء الرياض خلال ساعة واحدة.
     </p>
     <div class="hero-btns">
-      <a href="tel:+966560387771" class="btn-main">📞 اتصل الآن مجاناً</a>
+      <a href="tel:+966500304850" class="btn-main">📞 اتصل الآن مجاناً</a>
       <a href="#services"      class="btn-outline">🔍 خدماتنا</a>
     </div>
     <div class="hero-stats">
@@ -184,7 +184,7 @@
   <div class="map-info">
     <div class="map-stat">📍 <strong>التغطية:</strong> جميع أحياء مدينة الرياض</div>
     <div class="map-stat">⏱️ <strong>وقت الوصول:</strong> أقل من ساعة</div>
-    <div class="map-stat">📞 <a href="tel:+966560387771">0560387771</a></div>
+    <div class="map-stat">📞 <a href="tel:+966500304850">0500304850</a></div>
     <div class="map-stat">🕐 <strong>الخدمة:</strong> 24 ساعة / 7 أيام</div>
   </div>
 </section>
@@ -209,7 +209,7 @@
 <section class="cta-banner">
   <h2>مسبحك يستحق الأفضل</h2>
   <p>اتصل بنا الآن واحصل على تقييم مجاني وعرض سعر بدون أي التزام</p>
-  <a href="tel:+966560387771" class="phone-display">📞 0560387771</a>
+  <a href="tel:+966500304850" class="phone-display">📞 0500304850</a>
 </section>
 
 @endsection

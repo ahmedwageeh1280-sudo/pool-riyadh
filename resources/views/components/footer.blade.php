@@ -13,8 +13,8 @@
       {{-- NAP block: Name / Address / Phone must be consistent across the site and match Google Business Profile --}}
       <address class="footer-nap">
         <span class="nap-item">📍 الرياض، المملكة العربية السعودية</span>
-        <a  href="tel:+966560387771" class="nap-item">📞 0560387771</a>
-        <a  href="https://wa.me/966560387771" rel="noopener noreferrer" class="nap-item">💬 واتساب: 0560387771</a>
+        <a  href="tel:+966500304850" class="nap-item">📞 0500304850</a>
+        <a  href="https://wa.me/966500304850" rel="noopener noreferrer" class="nap-item">💬 واتساب: 0500304850</a>
         <span class="nap-item">🕐 خدمة 24 ساعة / 7 أيام في الأسبوع</span>
       </address>
     </div>
@@ -38,7 +38,7 @@
         <li><a href="#areas">مناطق الخدمة</a></li>
         <li><a href="#reviews">آراء العملاء</a></li>
         <li><a href="#faq">الأسئلة الشائعة</a></li>
-        <li><a href="tel:+966560387771">اتصل بنا</a></li>
+        <li><a href="tel:+966500304850">اتصل بنا</a></li>
       </ul>
     </div>
   </div>
@@ -46,7 +46,7 @@
   <div class="footer-bottom">
     <p>© {{ date('Y') }} شركة تنظيف مسابح الرياض. جميع الحقوق محفوظة.</p>
     <div class="footer-phone">
-      <a href="tel:+966560387771">📞 0560387771</a>
+      <a href="tel:+966500304850">📞 0500304850</a>
     </div>
   </div>
 </footer>
